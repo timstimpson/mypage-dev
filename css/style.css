@@ -73,6 +73,13 @@ hr {
 	margin-bottom : 50px;
 }
 
+.top-section h1 div {
+	display: inline-block;
+	padding-right: 20px;
+	white-space: nowrap;
+	justify-content: center;
+}
+
 @media (max-width: 768px) {
 	.row .section {
 		margin-bottom : 25px;
